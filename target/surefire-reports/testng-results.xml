@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-23T07:35:51Z" name="Suite" finished-at="2023-04-23T07:35:56Z" duration-ms="4780">
+    <groups>
+    </groups>
+    <test started-at="2023-04-23T07:35:51Z" name="Test" finished-at="2023-04-23T07:35:56Z" duration-ms="4780">
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="filloSetup()[pri:0, instance:testcases.LoginTest@f0c8a99]" started-at="2023-04-23T07:35:51Z" name="filloSetup" finished-at="2023-04-23T07:35:52Z" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloSetup -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@f0c8a99]" started-at="2023-04-23T07:35:52Z" name="SetUp" finished-at="2023-04-23T07:35:54Z" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="invalidLogin()[pri:0, instance:testcases.LoginTest@f0c8a99]" started-at="2023-04-23T07:35:54Z" name="invalidLogin" finished-at="2023-04-23T07:35:54Z" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@f0c8a99]" started-at="2023-04-23T07:35:54Z" name="SetUp" finished-at="2023-04-23T07:35:56Z" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="validLogin()[pri:0, instance:testcases.LoginTest@f0c8a99]" started-at="2023-04-23T07:35:56Z" name="validLogin" finished-at="2023-04-23T07:35:56Z" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
